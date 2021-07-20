@@ -1,0 +1,44 @@
+body {
+    background-color: #e9f5f9;
+}
+
+h1 {
+    text-align: center;
+    color: #484856;
+    background-color: transparent;
+}
+
+.blue {
+    background-color: #5cc8f7;
+}
+.pink {
+    background-color: #d0a1aa;
+}
+.white {
+    background-color: white;
+}
+
+.box {
+    width: 600px;
+    height: 200px;
+    margin: 20px auto;
+}
+
+.flex1 {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.flex2 {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+img {
+    height: 150px;
+    margin: 20px;
+}
+p {
+    text-align: center;
+}
