@@ -19,9 +19,11 @@ h1 {
 }
 
 .box {
-    width: 600px;
+    width: 800px;
     height: 200px;
     margin: 20px auto;
+    padding: 20px;
+
 }
 
 .flex1 {
@@ -36,7 +38,7 @@ h1 {
 }
 
 img {
-    height: 150px;
+    height: 200px;
     margin: 20px;
 }
 p {
